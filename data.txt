@@ -1,0 +1,2 @@
+punto: 5 comentario: HOla 
+punto: 2 comentario: Mi programa funciona
